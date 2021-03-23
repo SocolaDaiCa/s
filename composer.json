@@ -1,0 +1,12 @@
+{
+    "name": "socola/s",
+    "authors": [
+        {
+            "name": "Socola",
+            "email": "a@a.a"
+        }
+    ],
+    "require": {
+        "ixudra/curl": "^5.0.1"
+    }
+}
